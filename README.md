@@ -1,5 +1,5 @@
 # l-game
-The L-Game programmed in Commodore 64 Basic
+The L-Game programmed in Commodore 64 Basic see my YouTube channel for a video about this program https://youtu.be/bREU0vrnEwg
 
 I programmed this program in Commodore Basic. I used the CMB prg Studio version 3.14 on a Windows PC and the Vice emulator to debug and test the program. 
 
